@@ -1,0 +1,60 @@
+.header {
+    background-color: darkmagenta;
+    color: darkseagreen;
+    height: 60px;
+    width: auto;
+}
+
+li {
+    list-style: none;
+}
+
+.b1 {
+    background-color: darkmagenta;
+    color: floralwhite;
+    border: none;
+    font-size: 20px;
+}
+
+.header-list li {
+    float: left;
+    padding: 20px 20px;
+}
+
+.header-list2 {
+    float: right;
+}
+
+.main {
+    background-color: violet;
+    color: darkseagreen;
+    height: 700px;
+}
+
+.footer {
+    background-color: rgb(197, 127, 199);
+    color: darkseagreen;
+    height: 180px;
+}
+
+.b2 {
+    background-color: rgb(197, 127, 199);
+    color: floralwhite;
+    border: none;
+    font-size: 15px;
+}
+
+.footer-list1 {
+    float: left;
+}
+
+.b3 {
+    background-color: rgb(197, 127, 199);
+    color: floralwhite;
+    border: none;
+    font-size: 15px;
+}
+
+.footer-list2 {
+    float: right;
+}
